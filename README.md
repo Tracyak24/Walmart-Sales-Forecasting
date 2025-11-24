@@ -187,4 +187,4 @@ This project showcases strong competencies in Python programming, machine learni
 
 ---
 
-# ⭐ If you found this project valuable, please consider giving it a star on GitHub!
+⭐ If you found this project valuable, please consider giving it a star on GitHub!
