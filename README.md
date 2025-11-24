@@ -1,19 +1,19 @@
-#Walmart Sales Forecasting
+# Walmart Sales Forecasting
 
-#📊 Project Overview
+# 📊 Project Overview
 
 This project develops a machine learning solution to predict Walmart's weekly sales across 45 stores using historical data from 2010-2012. By analyzing sales patterns, economic indicators, and seasonal trends, the model achieves 91% accuracy in forecasting demand to optimize inventory management and business planning.
 
 The main analysis notebook (Walmart.ipynb) contains the complete workflow from data exploration to model deployment.
 
-#🎯 Business Impact
+# 🎯 Business Impact
 
 • Inventory Optimization: Reduce overstock and stockouts
 • Staff Scheduling: Align workforce with predicted demand
 • Financial Planning: Improve revenue forecasting accuracy
 • Supply Chain Management: Optimize logistics and distribution
 
-#🔍 Objectives
+# 🔍 Objectives
 
 • Perform comprehensive Exploratory Data Analysis (EDA) on sales trends and patterns
 • Engineer advanced features including lag variables and rolling statistics
@@ -22,21 +22,21 @@ The main analysis notebook (Walmart.ipynb) contains the complete workflow from d
 • Identify key drivers of sales performance through feature importance analysis
 • Generate actionable business insights for retail operations
 
-#📈 Key Results
+# 📈 Key Results
 
 • Best Model: Random Forest achieved 91.2% accuracy (R² score)
 • Prediction Accuracy: Mean Absolute Error of $47,215
 • Top Predictors: Previous year sales, Consumer Price Index (CPI), Holiday indicators
 • Data Scope: 45 stores analyzed across 3 years of weekly data
 
-🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
 • Python Data Stack: pandas, numpy, matplotlib, seaborn
 • Machine Learning: scikit-learn, Random Forest, XGBoost, Linear Regression
 • Model Evaluation: MAE, RMSE, R², Feature Importance analysis
 • Development: Jupyter Notebook, Git/GitHub, joblib for model serialization
 
-#📂 Repository Structure
+# 📂 Repository Structure
 
 /Walmart-Sales-Forecasting
 │
@@ -46,7 +46,7 @@ The main analysis notebook (Walmart.ipynb) contains the complete workflow from d
 ├── README.md                     # Project documentation
 └── requirements.txt              # Python dependencies
 
-#📋 Project Workflow
+# 📋 Project Workflow
 
 1. Data Loading & Cleaning
    • Import and validate Walmart sales dataset
@@ -83,14 +83,14 @@ The main analysis notebook (Walmart.ipynb) contains the complete workflow from d
    • Model serialization for production readiness (.pkl file)
    • Business-focused interpretation of machine learning results
 
-#🌟 Highlights & Innovations
+# 🌟 Highlights & Innovations
 
 • Advanced Feature Engineering: Created meaningful lag variables and rolling statistics that captured complex temporal patterns
 • Economic Integration: Incorporated macroeconomic indicators (CPI, Unemployment) to enhance prediction accuracy
 • Production-Ready: Serialized model for immediate deployment and future use
 • Business Translation: Transformed technical results into actionable retail insights
 
-#📝 How to Run This Project
+# 📝 How to Run This Project
 
 1. Clone the repository:
    git clone https://github.com/Tracyak24/Walmart-Sales-Forecasting.git
@@ -106,7 +106,7 @@ The main analysis notebook (Walmart.ipynb) contains the complete workflow from d
 
 5. Run cells sequentially to reproduce the complete analysis
 
-#🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 • Incorporate additional external data (weather, local events, competitor activity)
 • Implement more sophisticated time-series models (SARIMA, Prophet)
@@ -114,7 +114,7 @@ The main analysis notebook (Walmart.ipynb) contains the complete workflow from d
 • Create automated model retraining pipelines
 • Build interactive dashboard for business user access
 
-#📌 Portfolio Value
+# 📌 Portfolio Value
 
 This project demonstrates comprehensive data science capabilities:
 
@@ -125,10 +125,10 @@ This project demonstrates comprehensive data science capabilities:
 • Production-ready model development
 • Professional documentation and presentation
 
-#👤 About the Analyst
+# 👤 About the Analyst
 
 This project showcases strong competencies in Python programming, machine learning, time-series analysis, and business intelligence. It represents the ability to translate complex data into actionable business value.
 
 ---
 
-#⭐ If you found this project valuable, please consider giving it a star on GitHub!
+# ⭐ If you found this project valuable, please consider giving it a star on GitHub!
